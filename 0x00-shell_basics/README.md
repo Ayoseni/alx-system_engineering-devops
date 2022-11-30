@@ -1,1 +1,1 @@
-A readme printing current directory
+listed some files
