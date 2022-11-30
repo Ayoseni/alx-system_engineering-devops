@@ -1,1 +1,1 @@
-listed some files
+changed directory to home
