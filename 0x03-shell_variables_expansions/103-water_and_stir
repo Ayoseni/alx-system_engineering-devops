@@ -1,2 +1,2 @@
 #!/bin/bash
-BESTCHOL=$(($WATER+$STIR))
+printf BESTCHOL=$(($WATER+$STIR))
